@@ -1,0 +1,54 @@
+(<<)-->insertion opertor.
+(>>)-->exertion operator.
+(::) scope resolution operator.
+0-->success,chal gya to chla gya, also tell about the ending of excution of program.
+namespce-->it used to  access the glbal varible.
+#-->tell about this is a pre processor.
+DATA TYPE    
+smallest datatype charatcer inc++ is char value 1 byte.
+bool is of 1 byte storage.
+int contain 2 datatype integer and char integer have 4byte and char have 1 byte.
+we can also shirt the intger data type by aadding sort int--> automatticaly it is off 2byte.
+long have 8byte (these are the intger dat type).
+we can not store fractional value.
+for that we use float and double.
+float is of 4 byte and double of 8 byte.
+by wrtitng "long long long" it automatically increase the size of data
+1 BYte gave  8 bit and 1 bit.
+if i put all box 1 in 8 bit [ 1 1 1 1 1 1 1  ] maxiumum number 255
+2 ki power n --->goes to 1-7.
+data type .
+IMP THING
+computer represnt sigend numbers with the help of the first bit
+(MSB(most significant bit)).BY looking at this bit the computer understande whether a number is positve or -tiv.
+A 0 in the MSB indicate postive number , a 1 at MSB denotes Negative number.s
+handsoncpp-l1.
+//token is the smallest unit which can written in the id exaple int semicolon(;)
+//lexically meaningfull meaning of that keyword is called token
+//also a commn lanugae that can be undrstand by both computer anfd human.
+string str="Hello World Tis is cpp Training";
+doble quotes data called literals
+
+how to pick unique elemnt from an unsorted array 
+using set it is a special type of datastructur
+        PERFORMANCE MATRICS OF SORTING ALGORITHM
+    1. Best Case Time Complexity O(n^2) -> after modification 0(n):
+    2. Wosrt Case Time Complexity  O(n^2)
+    3. Adaptibility : When the Best Case Time complexity and Wosrt Case Time  Complexity are Equal
+                    :(When1<2) - it is Adaptable with slight
+    4. Stability : When the Respective postion of equal elemnt is unchanged That type of of
+                :Sorting is called stable sorting.
+                :Stbility mean maintaining the orignal order of Equal elemnt.
+                :Bubble sorting is a stable type of sorting
+                :Jo pahele 'A' likha he vo pahale SOrt hoga 
+                :example Ayush and Abhisekh aysuh sort hoga 1st
+------------------------------------------------------------------------------------------------
+SELECTION SORTING:
+
+in Selection sort the smallest elemnt is found from an array and placed at the
+fisrt position ,2nd smallest at the 2nd positoj and 3rd smallest in the 3rd position
+and so on
+
+eg: | 0  | | 1 | | 2 | 3 | | 4  | | 5 | 
+
+   :| 10 | | 5 | | 7 | 6 | | 12 | | 9 |
